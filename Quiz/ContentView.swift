@@ -25,6 +25,11 @@ struct ContentView: View {
                               option3: "Google",
                               option4: "Tinkercademy")]
     
+    
+    
+    
+    
+    
     @State var currentQuestion = 0
     
     @State var correctAnswers = 0
